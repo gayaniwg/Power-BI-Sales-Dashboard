@@ -1,3 +1,9 @@
+![1](https://github.com/user-attachments/assets/683c007b-e18e-458d-9ce0-86b7487c1f0d)
+
+![4](https://github.com/user-attachments/assets/a93e71ee-3105-40dd-8702-1570e187054f)
+
+![5](https://github.com/user-attachments/assets/b5a9835c-c64e-4bdc-a8b5-c8f50575cb2e)
+
 # Power BI Sales Dashboard
 
 ## Overview
